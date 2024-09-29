@@ -19,6 +19,8 @@ O projeto consiste em desenvolver um **Sistema de Treinamento para Médicos Resi
 
 ## Diagrama de Casos de Uso
 
+![Diagrama](https://github.com/user-attachments/assets/ca7db570-f003-4827-a010-4d79bbb9d075)
+
 O diagrama de casos de uso ilustra as interações entre os usuários e o sistema de treinamento, abrangendo:
 
 ### Portal da Plataforma:
